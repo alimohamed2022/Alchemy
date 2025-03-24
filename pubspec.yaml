@@ -145,7 +145,6 @@ flutter:
   #   - images/a_dot_ham.jpeg
 
   assets:
-    - lib/.env
     - assets/cover.jpg
     - assets/banner.png
     - assets/cover_thumb.jpg
