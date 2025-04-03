@@ -118,8 +118,7 @@ dependencies:
   figma_squircle:
     path: ./figma_squircle
   open_filex:
-    path: ./open_filex
-
+    open_filex: ^0.9.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
